@@ -5,6 +5,22 @@ Project files associated with running the DIY Push-Pull Heat Regeneration Ventil
 
 ![Wiring Diagram](bad_diagram.png)
 
+| Raspberry Pi | H-Bridge |
+| ------ | ---- |
+| Pin 2  | +5V  |
+| Pin 6  | GND  |
+| Pin 12 | PWMI |
+| Pin 11 | IN1  |
+| Pin 13 | IN2  |
+| Pin 15 | IN3  |
+| Pin 16 | IN4  |
+| Pin 22 | INA  |
+
+|  Psu   |   H-Bridge   |
+| ------ | ------------ |
+| DC+24V (with 15 amp breaker) |  '15A Fuse'  |
+| DC-24V |   '6.5-27V'  |
+
 ## Parts:
 
 Raspberry Pi 4B+
