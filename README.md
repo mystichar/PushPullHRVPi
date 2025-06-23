@@ -3,7 +3,7 @@ Project files associated with running the DIY Push-Pull Heat Regeneration Ventil
 
 ## Diagram
 
-![Wiring Diagram](*/bad_diagram.png)
+![Wiring Diagram](bad_diagram.png)
 
 ## Parts:
 
