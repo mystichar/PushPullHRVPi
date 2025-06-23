@@ -1,6 +1,10 @@
 # PushPullHRVPi
 Project files associated with running the DIY Push-Pull Heat Regeneration Ventilator
 
+## Diagram
+
+![Wiring Diagram](*/bad_diagram.png)
+
 ## Parts:
 
 Raspberry Pi 4B+
